@@ -9,4 +9,4 @@ This post will show examples of embedding interactive Bokeh charts.
 
 ## My Bokeh Chart
 
-<iframe src="charts/Focuscrime.html" width="800" height="600" frameborder="0"></iframe>
+<iframe src="charts/Focuscrime.html" width="1400" height="500" frameborder="0"></iframe>
