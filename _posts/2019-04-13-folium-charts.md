@@ -13,12 +13,7 @@ This post will show examples of embedding interactive maps produced using [Foliu
 ## OSMnx and Street Networks
 
 <div id="Bokeh-chart"></div>
-<iframe 
-    src="{{ site.baseurl }}/Focuscrime.html" 
-    width="1400" 
-    height="500"
-    frameborder="0">
-</iframe>
+<iframe src="/Bokeh-visuals/Focuscrime.html" width="100%" height="500"></iframe>
 
 
 <embed 
