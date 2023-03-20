@@ -4,6 +4,12 @@ layout: single
 ---
 <head>
     <link rel="stylesheet" type="text/css" href="ibohaji.github.io/dataviz/style.css">
+    <style>
+    #my-plot-div {
+        width: 100%;
+        height: 800px;
+    }
+</style>
 </head>
 
 # My Bokeh Plot
