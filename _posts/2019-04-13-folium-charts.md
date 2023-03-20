@@ -18,7 +18,7 @@ layout: single
     <script src="https://cdn.bokeh.org/bokeh/release/bokeh-2.4.1.min.js"></script>
     <script src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-2.4.1.min.js"></script>
     <script src="https://cdn.bokeh.org/bokeh/release/bokeh-tables-2.4.1.min.js"></script>
-    <iframe src="https://raw.githack.com/ibohaji/dataviz/main/charts/Bokeh%20Plot.html"
+    <iframe src="https://raw.githack.com/ibohaji/dataviz/master/charts/bokehplot.html"
         sandbox="allow-same-origin allow-scripts"
         width="100%"
         height="500"
