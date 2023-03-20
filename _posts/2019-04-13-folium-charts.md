@@ -7,7 +7,7 @@ layout: single
     <style>
     #my-plot-div {
         width: 100%;
-        height: 100px;
+        height: 1000px;
     }
 </style>
 </head>
