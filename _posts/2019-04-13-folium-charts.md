@@ -3,7 +3,7 @@ title: "My Bokeh Plot"
 layout: single
 ---
 <head>
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css">
+    <link rel="stylesheet" type="text/css" href="ibohaji.github.io/dataviz/style.css">
 </head>
 
 # My Bokeh Plot
@@ -12,5 +12,5 @@ layout: single
     <script src="https://cdn.bokeh.org/bokeh/release/bokeh-2.4.1.min.js"></script>
     <script src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-2.4.1.min.js"></script>
     <script src="https://cdn.bokeh.org/bokeh/release/bokeh-tables-2.4.1.min.js"></script>
-    <embed src="{{ site.baseurl }}/charts/Focuscrime.html" width="100%" height="500"></embed>
+    <embed src="{{ site.baseurl }}/charts/Focuscrime.html" width="2000" height="500"></embed>
 </div>
