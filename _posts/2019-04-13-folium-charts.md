@@ -1,12 +1,9 @@
 ---
-title: "Embedding Folium charts"
-date: 2019-04-13
+title: "Embedding Bokeh charts"
+date: 2023-03-20
 published: true
-tags: [dataviz, folium]
-excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
-folium-loader:
-  folium-chart-1: ["charts/foliumChart.html", "400"]
-  folium-chart-2: ["charts/percent_no_internet.html", "400"]
+tags: [dataviz, Bokeh]
+excerpt: "Embedding interactive Bokeh charts on static pages using Jekyll."
 toc: true
 toc_sticky: true
 ---
@@ -15,12 +12,12 @@ This post will show examples of embedding interactive maps produced using [Foliu
 
 ## OSMnx and Street Networks
 
-<div id="folium-chart-1"></div>
+<div id="Bokeh-chart"></div>
 <embed 
        type="text/html" 
-       src="/Focuscrime.html"
-       width="1100"
-       height="600"
+       src="/Bokeh-visuals/Focuscrime.html"
+       width="1400"
+       height="500"
        >
 </embed>
 ## Percentage of Households without Internet
