@@ -6,7 +6,7 @@ layout: single
     <link rel="stylesheet" type="text/css" href="ibohaji.github.io/dataviz/style.css">
     <style>
     #my-plot-div {
-        width: 100%;
+        width: 1400;
         height: 800px;
     }
 </style>
