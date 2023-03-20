@@ -1,5 +1,5 @@
 ---
-title: "My Bokeh Plot v10"
+title: "My Bokeh Plot v12"
 layout: single
 ---
 <head>
@@ -14,7 +14,7 @@ layout: single
 
 # My Bokeh Plot
 
-<div id="my-plot-div" class="bk-root" style = "width:100%; height: 100%; margin:0;paading:0;">
+<div id="my-plot-div" class="bk-root" style = "width:100%;; margin:0;paading:0;">
     <script src="https://cdn.bokeh.org/bokeh/release/bokeh-2.4.1.min.js"></script>
     <script src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-2.4.1.min.js"></script>
     <script src="https://cdn.bokeh.org/bokeh/release/bokeh-tables-2.4.1.min.js"></script>
