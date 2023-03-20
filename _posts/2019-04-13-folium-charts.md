@@ -1,5 +1,5 @@
 ---
-title: "My Bokeh Plot v13"
+title: "My Bokeh Plot v15"
 layout: single
 ---
 <head>
@@ -18,14 +18,14 @@ layout: single
     <script src="https://cdn.bokeh.org/bokeh/release/bokeh-2.4.1.min.js"></script>
     <script src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-2.4.1.min.js"></script>
     <script src="https://cdn.bokeh.org/bokeh/release/bokeh-tables-2.4.1.min.js"></script>
-    <embed src="{{ site.baseurl }}/charts/Bokeh Plot.html"scrolling="no">
-    <iframe src="/charts/Bokeh Plot.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="500"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
+    <iframe src="https://raw.githack.com/ibohaji/dataviz/main/charts/Bokeh%20Plot.html"
+        sandbox="allow-same-origin allow-scripts"
+        width="100%"
+        height="500"
+        scrolling="no"
+        seamless="seamless"
+        frameborder="0">
 </iframe>
+
 </div>
 
