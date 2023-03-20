@@ -16,7 +16,13 @@ This post will show examples of embedding interactive maps produced using [Foliu
 ## OSMnx and Street Networks
 
 <div id="folium-chart-1"></div>
-
+<embed 
+       type="text/html" 
+       src="/Focuscrime.html"
+       width="1100"
+       height="600"
+       >
+</embed>
 ## Percentage of Households without Internet
 
 <div id="folium-chart-2"></div>
