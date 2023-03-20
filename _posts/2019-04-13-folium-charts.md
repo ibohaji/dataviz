@@ -2,6 +2,9 @@
 title: "My Bokeh Plot"
 layout: single
 ---
+<head>
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css">
+</head>
 
 # My Bokeh Plot
 

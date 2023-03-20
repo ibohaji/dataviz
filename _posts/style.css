@@ -1,0 +1,9 @@
+.bokeh-legend-item {
+    display: inline-block !important;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.bokeh-plot-layout > table > tbody > tr > td:nth-child(2) {
+    vertical-align: middle;
+}
