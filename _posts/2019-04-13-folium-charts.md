@@ -13,15 +13,20 @@ This post will show examples of embedding interactive maps produced using [Foliu
 ## OSMnx and Street Networks
 
 <div id="Bokeh-chart"></div>
+<iframe 
+    src="{{ site.baseurl }}/Focuscrime.html" 
+    width="1400" 
+    height="500"
+    frameborder="0">
+</iframe>
+
+
 <embed 
        type="text/html" 
-       src="/Bokeh-visuals/Focuscrime.html"
+       src="/Focuscrime.html"
        width="1400"
        height="500"
        >
 </embed>
-## Percentage of Households without Internet
 
-<div id="folium-chart-2"></div>
 
-See the [week 10 lecture slides](https://github.com/MUSA-620-Spring-2019/week-10/blob/master/lecture-10.ipynb) for the code that produced these plots.
