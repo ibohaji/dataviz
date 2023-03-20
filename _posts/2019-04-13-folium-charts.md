@@ -20,3 +20,12 @@ layout: single
     <script src="https://cdn.bokeh.org/bokeh/release/bokeh-tables-2.4.1.min.js"></script>
     <embed src="{{ site.baseurl }}/charts/Bokeh Plot.html">
 </div>
+
+<iframe src="/charts/Bokeh Plot.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
