@@ -1,12 +1,13 @@
-title: "Embedding Bokeh charts"
-date: 2023-03-20
-published: true
-tags: [dataviz, Bokeh]
-excerpt: "Embedding interactive Bokeh charts on static pages using Jekyll."
+---
+title: "My Bokeh Plot"
+layout: single
 ---
 
-This post will show examples of embedding interactive Bokeh charts.
+# My Bokeh Plot
 
-## My Bokeh Chart
-
-<iframe src="charts/Focuscrime.html" width="1400" height="500" frameborder="0"></iframe>
+<div>
+    <script src="https://cdn.bokeh.org/bokeh/release/bokeh-2.4.1.min.js"></script>
+    <script src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-2.4.1.min.js"></script>
+    <script src="https://cdn.bokeh.org/bokeh/release/bokeh-tables-2.4.1.min.js"></script>
+    <embed src="{{ site.baseurl }}/charts/Focuscrime.html" width="100%" height="500"></embed>
+</div>
