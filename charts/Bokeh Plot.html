@@ -74,6 +74,13 @@
             else document.addEventListener("DOMContentLoaded", fn);
           })();
         </script>
+        
+        <script>
+          var plot = Bokeh.documents[0].get_model_by_name("{{ plot_name }}");
+          plot.plot_width = "100%";
+          plot.plot_height = "100%";
+          plot.update();
+      </script>
     
   
   
