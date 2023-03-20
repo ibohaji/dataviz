@@ -20,7 +20,7 @@ layout: single
     <script src="https://cdn.bokeh.org/bokeh/release/bokeh-tables-2.4.1.min.js"></script>
     <iframe src="https://raw.githack.com/ibohaji/dataviz/master/charts/bokehplot.html"
         sandbox="allow-same-origin allow-scripts"
-        width="100%"
+        width="950"
         height="500"
         scrolling="no"
         seamless="seamless"
