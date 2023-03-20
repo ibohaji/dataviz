@@ -1,29 +1,12 @@
----
-title: "Embedding Folium charts"
-date: 2019-04-13
+title: "Embedding Bokeh charts"
+date: 2023-03-20
 published: true
-tags: [dataviz, folium]
-excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
-folium-loader:
-  Bokeh-chart-1: ["charts/Focuscrime.html", "1100"]
-toc: true
-toc_sticky: true
+tags: [dataviz, Bokeh]
+excerpt: "Embedding interactive Bokeh charts on static pages using Jekyll."
 ---
 
-This post will show examples of embedding interactive maps produced using [Folium](https://github.com/python-visualization/folium).
+This post will show examples of embedding interactive Bokeh charts.
 
-## OSMnx and Street Networks
+## My Bokeh Chart
 
-<div id="Bokeh-chart-1"></div>
-<embed 
-       type="text/html" 
-       src="/Focuscrime.html"
-       width="1100"
-       height="600"
-       >
-</embed>
-
-
-
-
-
+<iframe src="charts/Focuscrime.html" width="800" height="600" frameborder="0"></iframe>
